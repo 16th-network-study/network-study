@@ -71,7 +71,7 @@ SSL/TLS 인증서는 시스템에서 ID를 확인하고 이후에 SSL/TLS 프로
 인증 기관(CA)은 웹 서버가 발급받은 SSL/TLS 인증서가 신뢰할 수 있는지 검증해주는 신뢰의 중개자 역할을 한다. 웹 서버가 보유한 퍼블릭 키는 CA가 인증한 서버 인증서에 포함되어 있으며, 브라우저는 이 인증서를 확인하여 서버가 실제로 신뢰할 수 있는 도메인의 소유자인지를 판단한다.
 
 
-<img src="img/Kangjinju/ca_certificate.png" width = 650>
+<img src="img/KangJinju/ca_certificate.png" width = 650>
 
 
 ### 3. 디지털 서명
